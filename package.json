@@ -1,0 +1,22 @@
+{
+  "name": "merchant",
+  "version": "1.0.0",
+  "description": "a discord bot that allows server members to automatically earn points or coins through activity, as well as use them in shops set up by the staff",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AishwaryaKaliki/merchant.git"
+  },
+  "author": "AishwaryaKaliki",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/AishwaryaKaliki/merchant/issues"
+  },
+  "homepage": "https://github.com/AishwaryaKaliki/merchant#README.md",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  }
+}
