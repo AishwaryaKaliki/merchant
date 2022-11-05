@@ -1,4 +1,4 @@
 node_modules/*
 package-lock.json
-config/config_local.json
-config/config_prod.json
+src/config/config_local.json
+src/config/config_prod.json
