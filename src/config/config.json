@@ -1,0 +1,6 @@
+{
+	"prefix":"$",
+    "token": "your-token-goes-here",
+    "clientID": "your-bot-client-ID",
+    "guildID" : "your-server-ID"
+}
